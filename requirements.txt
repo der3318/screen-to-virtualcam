@@ -1,0 +1,9 @@
+colorama==0.4.4
+commonmark==0.9.1
+mss==6.1.0
+numpy==1.21.3
+opencv-python==4.5.4.58
+Pillow==8.4.0
+Pygments==2.10.0
+pyvirtualcam==0.8.0
+rich==10.12.0
